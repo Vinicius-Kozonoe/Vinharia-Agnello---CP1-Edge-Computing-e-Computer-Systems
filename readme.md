@@ -72,12 +72,14 @@ O projeto utiliza um sensor LDR para detectar a luz ambiente, realiza calibraç�
 ---
 
 ## 📋 Requisitos
+
 - Arduino IDE 1.8+ ou simulação via WokWI  
 - Biblioteca: LiquidCrystal.h (já inclusa por padrão na IDE)  
 
 ---
 
 ## 👨‍💻 Equipe
+
 -César Andre Zanin Filho - Rm:567615
 -Gabriel Amparo Evangelista Santo -568274
 -Murilo Jeronimo Ferreira Nunes - Rm:560641
