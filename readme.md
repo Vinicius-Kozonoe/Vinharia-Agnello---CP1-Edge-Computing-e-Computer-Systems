@@ -39,6 +39,7 @@ O projeto utiliza um sensor LDR para detectar a luz ambiente, realiza calibraç�
 | Jumpers          | Diversos   | Conexões entre os componentes               |
 
 ## 📂 Estrutura do projeto
+
 ├── vinheria_agnello.ino # Código principal do sistema embarcado
 ├── imgs/
 │ └── image_circuit.png # Imagem do circuito 
@@ -77,11 +78,11 @@ O projeto utiliza um sensor LDR para detectar a luz ambiente, realiza calibraç�
 ---
 
 ## 👨‍💻 Equipe
-César Andre Zanin Filho - Rm:567615
-Gabriel Amparo Evangelista Santo -568274
-Murilo Jeronimo Ferreira Nunes - Rm:560641
-Pedro Olavo Jung da Silva - Rm:567182
-Vinicius Kozonoe Guaglini - Rm:567264  
+-César Andre Zanin Filho - Rm:567615
+-Gabriel Amparo Evangelista Santo -568274
+-Murilo Jeronimo Ferreira Nunes - Rm:560641
+-Pedro Olavo Jung da Silva - Rm:567182
+-Vinicius Kozonoe Guaglini - Rm:567264  
 
 
 
